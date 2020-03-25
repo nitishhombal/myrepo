@@ -1,2 +1,3 @@
 Some new file
 adding new lines to file
+Line to be reverted in 123.txt
